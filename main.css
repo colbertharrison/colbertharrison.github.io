@@ -1,13 +1,13 @@
 body {
 	font-family: "Lucida Console", "Courier New", monospace;
 	color: #fff;
-	background-repeat: repeat-x;
-	background-image: linear-gradient(#000, #fff),url("image.png");; 
+	background-image: linear-gradient(#000, #fff),url("image.png");
+	background-repeat: repeat;
 	background-blend-mode:multiply;
 	font-size: small;
 }
 
 .cat {
   object-fit: contain;
-  width: 50%;
+  width: 20%;
 }
